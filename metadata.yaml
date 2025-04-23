@@ -1,0 +1,47 @@
+_repo: Los-miserables-Tomo-1-de-2_75739
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: J. A. R.
+    gutenberg_agent_id: '58123'
+    url: http://www.gutenberg.org/2009/agents/58123
+creator:
+  author:
+    agent_name: Hugo, Victor
+    aliases:
+    - Hugo, Victor Marie, comte
+    - Hugo, Víctor
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_Hugo
+    - https://fr.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2025-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75739'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn4l4r&view=1up&seq=9
+pgterms:marc905: 20230430122713hugo
+pgterms:marc906: '1897'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Thiers, Santiago and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aBarcelona :$bMANILA BARCELONA, "MAUCCI", $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Epic literature'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Los miserables - Tomo 1 (de 2)
+url: http://www.gutenberg.org/ebooks/75739
