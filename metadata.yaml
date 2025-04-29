@@ -5,6 +5,9 @@ contributor:
     agent_name: J. A. R.
     gutenberg_agent_id: '58123'
     url: http://www.gutenberg.org/2009/agents/58123
+covers:
+- cover_type: archival
+  image_path: 75739-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Victor_Hugo
     - https://fr.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75739#Los-miserables-Tomo-1-de-2
 gutenberg_issued: '2025-03-29'
 gutenberg_type: Text
 identifiers:
